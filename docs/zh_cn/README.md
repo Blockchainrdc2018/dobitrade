@@ -2,4 +2,4 @@
 
 ## 目录
 
-- [接口检查](./InterfaceCheck)
+- [接口检查](./InterfaceCheck.md)

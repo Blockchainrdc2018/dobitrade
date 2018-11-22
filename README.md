@@ -13,8 +13,8 @@ and digital asset management to provide best trading experience to our users.
 ## Docs
 
 - [DOBI Trade(English)](./docs/en_us/)
-- [多比交易(繁体中文)](.docs/zh_tw/)
-- [多比交易(简体中文)](.docs/zh_cn/)
+- [多比交易(繁体中文)](./docs/zh_tw/)
+- [多比交易(简体中文)](./docs/zh_cn/)
 
 ## About
 

@@ -2,4 +2,4 @@
 
 ## 目錄
 
-- [接口檢查](./InterfaceCheck)
+- [接口檢查](./InterfaceCheck.md)
