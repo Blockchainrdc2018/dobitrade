@@ -7,3 +7,6 @@ layout: post
 twitter_username: dobitrade_
 github_username: blockchainrdc2018
 telegram_username: dobitrade.com
+
+minima:
+  date_frtmat: ""
