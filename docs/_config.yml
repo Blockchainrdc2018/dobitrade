@@ -1,5 +1,9 @@
-theme: jekyll-theme-slate
-title: DOBITRADE
+theme: minima
+title: DOBI TRADE
 description: Global Cryptocurrency Trading Platform
 show_downloads: false
-layout: default
+layout: post
+
+twitter_username: dobitrade_
+github_username: blockchainrdc2018
+telegram_username: dobitrade.com
