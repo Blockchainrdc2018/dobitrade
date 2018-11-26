@@ -75,7 +75,7 @@ Forked chain means that developing the chain based on [Ethereum](https://en.wiki
 |`personal_newAccount`|get new account address|
 |`personal_unlockAccount`|unlock the new created address|
 
-### 比特币分叉币
+### Forcked from BTC
 
 Forked chain means that developing the chain based on [BTC](https://bitcoin.org/), need to ensure that RPC interfaces' functions, parametes and the type and meaning of the fiels of the results are the same as ETH, which are listed:
 
