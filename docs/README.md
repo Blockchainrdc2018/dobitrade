@@ -2,7 +2,7 @@
 tilte: WELCOME TO DOBITRADE
 ---
 
-# DOBITRADE
+DOBITRADE
 
 Dobitrade Exchange is a global cryptocurrency trading platform.
 
