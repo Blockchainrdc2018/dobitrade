@@ -40,11 +40,11 @@ All coins have to provide documents and source code before being listed official
     - Block packing time intervals;
     - Block size;
     - Up to handle the documents, heigth of blocks and its total size;
-    - The diffiences between the focked chain and the mainstream chain(`BTC` or `ETH`);
+    - The diffiences illustration between the focked chain and the mainstream chain(`BTC` or `ETH`);
 - If Docker provided:
     - Dockerfile or link of dowloading image
     - Documents about docker startup parameters or docker-compose;
-- Contanct information, E-Mail, telegram, WhatsApp etc., used for contacting to solve tech-problems.
+- The contact channels are open for technical support: Email, telegram, WhatsApp, ect.
 
 ## Mainstream chains
 
