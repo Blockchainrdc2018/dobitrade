@@ -6,26 +6,26 @@ All coins have to provide documents and source code before being listed official
 
 ## Environment
 
-- Deploy, runtime, Linux OS used for deploy or runing should be one of:
+- Linux OS used for deploy or runing should be one of the following:
 
     - CentOS 7.5
     - Debian 9
     - Ubuntu 16.04
     - Ubuntu 18.04
 
-    If not, Docker image or Dockerfile must be provided;
+    If none available above, Docker image or Dockerfile must be provided;
 
-- Requirements of Hardware (CPU, RAM, Hard disk, net bandwith, etc.);
+- Details of hardwore requirements(CPU, RAM, Hard disk, net bandwith, etc.);
 
-- If thirdparty resource(eg. MySQL), please list the requements of that;
+- Details of third-party resource if there is(eg. MySQL);
 
 - Non-Linux is not supported.
 
 ## Compiling and deploy
 
-- Open source or providing source code, due to safety concerns;
+- Open source would be preferred for upcoming token. If not, please provide source code for security concerns;
 
-- Documents of compiling and deploy are required, and must include:
+- Compiling and deploying documents are needed under the requirements below:
 
     - Compiling tools and its version(eg. gcc 8.2)
     - Ports used for network(eg. P2P)
@@ -35,10 +35,10 @@ All coins have to provide documents and source code before being listed official
 
 - Configuration files, startup parameters;
 - Network protocols, Interface documents(eg. RPC, API documents)
-- Special matters documents, at least including:
-    - Rules of mining fee
-    - Intervals of packaging block;
-    - Size of a block;
+- Special declaration document. Please provide at least:
+    - Mining fee rules
+    - Block packing time intervals;
+    - Block size;
     - Up to handle the documents, heigth of blocks and its total size;
     - The diffiences between the focked chain and the mainstream chain(`BTC` or `ETH`);
 - If Docker provided:
