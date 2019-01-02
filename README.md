@@ -18,12 +18,12 @@ and digital asset management to provide best trading experience to our users.
 
 ## About
 
-- Website: [<img src="https://www.dobiex.io/svg/dobi_logo.svg" width=60px>](https://www.dobiex.io)
+- Website: [<img src="https://www.dobiex.io/svg/dobi_logo.svg" width=60px>](https://www.dobiex.io:_blank)
 
-- Telegram: [![telegram icon](./images/telegram.png)](https://t.me/dobitradechat)
-- WhatsApp: [![whatsapp icon](./images/whatsapp.png)](http://www.wasap.my/60162318208)
+- Telegram: [![telegram icon](./images/telegram.png)](https://t.me/dobitradechat:_blank)
+- WhatsApp: [![whatsapp icon](./images/whatsapp.png)](http://www.wasap.my/60162318208:_blank)
 
-- Twitter: [![twitter icon](./images/twitter.png)](https://twitter.com/dobitrade_)
+- Twitter: [![twitter icon](./images/twitter.png)](https://twitter.com/dobitrade_:_blank)
 
 - Wechat:
 

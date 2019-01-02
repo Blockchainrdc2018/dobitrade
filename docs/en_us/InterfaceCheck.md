@@ -1,6 +1,6 @@
-# Dobitrade platform interface review for new coin listing 
+# Dobitrade platform interface review for new coin listing
 
-This article aims to describe and explain the information that needs to be provided for upcoming new coin on [dobitrade](https://www.dobiex.io/). According to the chain on which the coin depends, we need different content concerned for different chains.
+This article aims to describe and explain the information that needs to be provided for upcoming new coin on [dobitrade](https://www.dobiex.io/:_blank). According to the chain on which the coin depends, we need different content concerned for different chains.
 
 All coins have to provide documents and source code before being listed officially. We’ll keep you informed of the approval result within 3-5 work days via email.
 
@@ -48,7 +48,7 @@ All coins have to provide documents and source code before being listed official
 
 ## Mainstream chains
 
-### Ethereum(ETH) 
+### Ethereum(ETH)
 
 #### ERC-20 contract token
 
