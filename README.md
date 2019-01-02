@@ -18,7 +18,7 @@ and digital asset management to provide best trading experience to our users.
 
 ## About
 
-- Website: [<img src="https://www.dobitrade.com/svg/dobi_logo.svg" width=60px>](https://www.dobitrade.com) 
+- Website: [<img src="https://www.dobiex.io/svg/dobi_logo.svg" width=60px>](https://www.dobiex.io)
 
 - Telegram: [![telegram icon](./images/telegram.png)](https://t.me/dobitradechat)
 - WhatsApp: [![whatsapp icon](./images/whatsapp.png)](http://www.wasap.my/60162318208)
@@ -27,4 +27,4 @@ and digital asset management to provide best trading experience to our users.
 
 - Wechat:
 
-    ![We Chat](https://www.dobitrade.com/imgs/wechat_eq.png)
+    ![We Chat](https://www.dobiex.io/imgs/wechat_eq.png)
